@@ -329,7 +329,7 @@ img:not([src]) {
 
 @font-face {
     font-family: 'Webgency';
-    src: url('../fonts/SourceSans3-Regular.woff') format('woff');
+    src: url('https://static.tildacdn.net/tild6665-3565-4465-a433-333232363232/SourceSans3-Regular.woff') format('woff');
     font-weight: 400;
     font-style: normal
 }
@@ -357,14 +357,14 @@ img:not([src]) {
 
 @font-face {
     font-family: 'NewFonts';
-    src: url('../fonts/GT-Super-Display-Light.woff') format('woff');
+    src: url('https://static.tildacdn.net/tild3435-3236-4634-b530-333463616662/GT_Super_Display_Lig.woff') format('woff');
     font-weight: 100;
     font-style: normal
 }
 
 @font-face {
     font-family: 'NewFonts';
-    src: url('../fonts/ImperialScript-Regular.woff') format('woff');
+    src: url('https://static.tildacdn.net/tild3662-6132-4065-a162-656631353462/ImperialScript-Regul.woff') format('woff');
     font-weight: 300;
     font-style: normal
 }
@@ -385,7 +385,7 @@ img:not([src]) {
 
 @font-face {
     font-family: 'NewFonts';
-    src: url('../fonts/Ovo-Regular.woff2') format('woff2');
+    src: url('https://static.tildacdn.net/tild6632-6530-4434-b631-333238313335/Ovo-Regular.woff2') format('woff2');
     font-weight: 600;
     font-style: normal
 }
@@ -399,7 +399,7 @@ img:not([src]) {
 
 @font-face {
     font-family: 'NewFonts';
-    src: url('../fonts/ReemKufi-Regular.woff2') format('woff2');
+    src: url('https://static.tildacdn.net/tild3864-3161-4965-b030-356536333235/ReemKufi-Regular.woff2') format('woff2');
     font-weight: 900;
     font-style: normal
 }
